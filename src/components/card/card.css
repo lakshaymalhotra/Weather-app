@@ -1,0 +1,36 @@
+.cardContainer{
+    display:flex;
+    /* padding: 1rem; */
+    
+}
+.card1{
+    background-color:#979b9c;
+    margin: 1.5rem;
+    align-content: center;
+    height:200px;
+    vertical-align: middle; 
+}
+.card{
+    margin: 1.5rem;
+}
+
+.card-title{
+    text-align: center;
+    
+    /* font-size: 150%; */
+}
+.card-title h1{
+    font-size: 20rem;
+}
+.i {
+    align-content: center;
+}
+.card-subtitle  {
+    text-align: center;
+}
+.icon{
+    text-align: center;
+}
+.title{
+    background-color:#979b9c;
+}
